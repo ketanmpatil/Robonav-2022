@@ -1,0 +1,9 @@
+robot_base_frame: base_link
+
+
+robot_radius: 0.30
+inflater:
+  robot_radius: 0.30
+  inflation_radius: 0.4
+
+# Obstacles are defined in robot folders

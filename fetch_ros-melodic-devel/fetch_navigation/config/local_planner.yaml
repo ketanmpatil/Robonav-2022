@@ -1,0 +1,5 @@
+EBandPlannerROS:
+  max_rotational_acceleration: 1.0
+  max_vel_lin: 0.6
+  xy_goal_tolerance: 0.1
+  taw_goal_tolerance: 0.05
